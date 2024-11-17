@@ -20,3 +20,12 @@ npm i primeicons
 npm install -D sass-embedded
 # layouts/* and composables/* and components/*
 # Copy files from Sakai-vue starter project to add the default sidebar etc.
+
+# Axios
+npm i axios
+
+
+# To start the project
+1. npm i
+2. npm run dev
+
