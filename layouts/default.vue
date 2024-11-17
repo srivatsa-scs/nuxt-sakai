@@ -1,5 +1,6 @@
 <template>
     <div class="layout-wrapper" :class="containerClass">
+        <NuxtLoadingIndicator height="5"></NuxtLoadingIndicator>
         <AppTopbar></AppTopbar>
         <AppSidebar></AppSidebar>
         <div class="layout-main-container">

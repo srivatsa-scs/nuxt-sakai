@@ -9,7 +9,8 @@ export default defineNuxtConfig({
     '@primevue/nuxt-module',
     '@nuxtjs/google-fonts',
     '@vueuse/nuxt',
-    '@pinia/nuxt'
+    '@pinia/nuxt',
+    '@nuxt/image'
   ],
   css: [
     'primeicons/primeicons.css',
